@@ -20,18 +20,18 @@ The player character is a generic copy of the default third person project with 
 6. If you have enabled the VaREST plug-in after pressing K in the top-left corner you will see a value taken from a public JSON-API service.
 
 Other info
-*The Torch (Fire Emitter, from spawner) is required in order to damage NPC's.
-*In order to open the door you must have taken a given amount of items from those spawned by the spawner
-	*The Fuel (Red Barrel) "burns" the door the fastest.
-	*The Wood (A Log) is the second in place
-	*The Match gives the lowest percentage of them all.
-*The player is for now immortal despite showing decreasing health.
-*The player has a wider hit box than the NPCs for easier testing.
-*The NPC's with Torches (Fire Emitter) inflict double damage on the player than those who don't.
+* The Torch (Fire Emitter, from spawner) is required in order to damage NPC's.
+* In order to open the door you must have taken a given amount of items from those spawned by the spawner
+	* The Fuel (Red Barrel) "burns" the door the fastest.
+	* The Wood (A Log) is the second in place
+	* The Match gives the lowest percentage of them all.
+* The player is for now immortal despite showing decreasing health.
+* The player has a wider hit box than the NPCs for easier testing.
+* The NPC's with Torches (Fire Emitter) inflict double damage on the player than those who don't.
 	
 Needless references
-*Windows Git Error:	https://github.com/git-lfs/git-lfs/issues/2434
-*Reason why I could not present the project on the given date:	https://answers.unrealengine.com/questions/799037/unreal-editor-fatal-error-d3d11querycpp-gpu-has-cr.html
-*The open JSON Service for testing purposes: https://jsonplaceholder.typicode.com/
-*URL From which the game can take information:	https://jsonplaceholder.typicode.com/todos/1
+* Windows Git Error:	https://github.com/git-lfs/git-lfs/issues/2434
+* Reason why I could not present the project on the given date:	https://answers.unrealengine.com/questions/799037/unreal-editor-fatal-error-d3d11querycpp-gpu-has-cr.html
+* The open JSON Service for testing purposes: https://jsonplaceholder.typicode.com/
+* URL From which the game can take information:	https://jsonplaceholder.typicode.com/todos/1
 	
