@@ -3,9 +3,9 @@ A simple overview of this university project written in UE4.
 All things that I have made can be found under the Content/Custom file tree.
 
 To note some things before the project
-	* On Windows using Git, many of the files were corrupted after download, the solution was to use the command "git lfs clone" instead of "git clone".
-	* Advisable to right-click the .uproject file and select "Generate Visual Studio files".
-	* For a reason the C++ file for the blood-lock was not detected from the Editor on the first run, after opening the .sln file and Building the project the problem was resolved.
+* On Windows using Git, many of the files were corrupted after download, the solution was to use the command "git lfs clone" instead of "git clone".
+* Advisable to right-click the .uproject file and select "Generate Visual Studio files".
+* For a reason the C++ file for the blood-lock was not detected from the Editor on the first run, after opening the .sln file and Building the project the problem was resolved.
 	
 
 The player character is a generic copy of the default third person project with a few variables and components added.
