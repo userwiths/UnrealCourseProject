@@ -1,0 +1,3 @@
+C:\Users\power\Documents\Unreal Projects\GameDev\Source\GameDev\GameDev.Build.cs
+C:\Users\power\Documents\Unreal Projects\GameDev\Source\GameDev.Target.cs
+C:\Users\power\Documents\Unreal Projects\GameDev\Source\GameDevEditor.Target.cs

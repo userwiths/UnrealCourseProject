@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\GameDev.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{EA748464-C7E7-4FDD-8EA7-149477438B24}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GameDev.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\GameDevEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{8E4C6E78-5615-4E0A-B436-BDD1B3BA40E2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\GameDev">
+			<UniqueIdentifier>{D9781256-C2C2-464B-8D17-79EE00EA5199}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\GameDev\Door.cpp">
+			<Filter>Source\GameDev</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GameDev\Door.h">
+			<Filter>Source\GameDev</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\GameDev\GameDev.Build.cs">
+			<Filter>Source\GameDev</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\GameDev\GameDev.cpp">
+			<Filter>Source\GameDev</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GameDev\GameDev.h">
+			<Filter>Source\GameDev</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GameDev\GameDevCharacter.cpp">
+			<Filter>Source\GameDev</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GameDev\GameDevCharacter.h">
+			<Filter>Source\GameDev</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GameDev\GameDevGameMode.cpp">
+			<Filter>Source\GameDev</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GameDev\GameDevGameMode.h">
+			<Filter>Source\GameDev</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
