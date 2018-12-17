@@ -3,6 +3,7 @@ A simple overview of this university project written in UE4.
 All things that I have made can be found under the Content/Custom file tree.
 
 To note some things before the project
+* UE4 version 4.20.3
 * On Windows using Git Bash, many of the files were corrupted after download, the solution was to use the command "git lfs clone" instead of "git clone".
 * Advisable to right-click the .uproject file and select "Generate Visual Studio files".
 * For a reason the C++ file for the blood-lock was not detected from the Editor on the first run, after opening the .sln file and Building the project the problem was resolved.
